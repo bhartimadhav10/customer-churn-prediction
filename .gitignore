@@ -3,7 +3,6 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Ignore dataset files (if needed)
-*.csv
 *.xlsx
 
 # Ignore virtual environments
